@@ -15,7 +15,7 @@ $this->registerModule(
 	/* Name */		"anonymousComments",
 	/* Description*/	"Allows posting comments as anonymous",
 	/* Author */		"Aurélien Bompard, Pierre Van Glabeke",
-	/* Version */		'1.3.1',
+	/* Version */		'1.3.2',
 	/* Properties */
 	array(
 		'permissions' => 'admin',

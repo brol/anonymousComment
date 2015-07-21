@@ -53,3 +53,6 @@ msgstr "Nom de remplacement : "
 #: index.php:81
 msgid "Replacement email: "
 msgstr "E-mail de remplacement : "
+
+msgid "Allows posting comments as anonymous"
+msgstr "Autoriser les commentaires anonymes"
